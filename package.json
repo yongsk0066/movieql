@@ -1,0 +1,9 @@
+{
+  "name": "movieQL",
+  "version": "1.0.0",
+  "description": "Movie API with GraphQL",
+  "main": "index.js",
+  "repository": "https://github.com/yongsk0066/movieql",
+  "author": "Yongseok Jang<yongsk0066@gmail.com>",
+  "license": "MIT"
+}
