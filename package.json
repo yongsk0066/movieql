@@ -5,5 +5,15 @@
   "main": "index.js",
   "repository": "https://github.com/yongsk0066/movieql",
   "author": "Yongseok Jang<yongsk0066@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "graphql-yoga": "^1.18.1",
+    "node-fetch": "^2.6.0"
+  },
+  "scripts": {
+    "start": "nodemon --exec babel-node index.js"
+  }
 }
